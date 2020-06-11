@@ -1,4 +1,6 @@
-The easiest way of converting an array of bytes representing a number into a number is using `ByteBuffer.wrap()`:
+# Byte array to integer conversion
+
+The easiest way of converting an array of bytes representing a number into an integer is using `ByteBuffer.wrap()`:
 
 ```java
 int value = ByteBuffer.wrap(array, startIndex, length)
