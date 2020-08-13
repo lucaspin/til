@@ -1,5 +1,3 @@
-# Configuring users
-
 To configure the user globally:
 
 ```sh

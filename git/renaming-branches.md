@@ -1,5 +1,3 @@
-# Renaming branches
-
 Renaming a local branch:
 
 ```bash

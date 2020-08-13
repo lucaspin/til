@@ -1,5 +1,3 @@
-# Create maps
-
 Creating an immutable map:
 
 ```java

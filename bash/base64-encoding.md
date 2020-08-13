@@ -1,5 +1,3 @@
-# Base64 encoding
-
 Use the `base64` command to encode:
 
 ```bash
